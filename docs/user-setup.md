@@ -6,7 +6,6 @@ The following users should be apart of the distribution.
 |----------|----------|-----------|
 | pi       | pi       | Yes       |
 | root     | fa       | No        |
-|          |          |           |
 
 ### Remove the Default User
 1. Log in as `root` through your given IP.
