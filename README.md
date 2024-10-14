@@ -6,6 +6,7 @@
 ### Setup Instructions
 1. [Installing Open Media Vault OS (Debian 12)](./docs/omv-setup.md)
 2. [Setup User](./docs/user-setup.md)
+3. [Setup Storage Drives](./docs/storage-setup.md)
 
 ### Assembly Parts for NAS
 * [CM3588 NAS Board](https://www.friendlyelec.com/index.php?route=product/product&product_id=294)  

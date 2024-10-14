@@ -25,7 +25,6 @@
 |----------|----------|-----------|
 | pi       | pi       | Yes       |
 | root     | fa       | No        |
-|          |          |           |
 
 2. You can just log in as `pi`.
 
