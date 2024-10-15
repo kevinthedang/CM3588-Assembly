@@ -74,4 +74,4 @@ Based on the [OMV Wiki by FriendlyElec](https://wiki.friendlyelec.com/wiki/index
 
 13. Click `Save` when you are done.
 
-14. Proceed to creating NAS Users and the NFS share.
+14. Proceed to creating [NAS Users and the NFS share](./nas-users.md).
