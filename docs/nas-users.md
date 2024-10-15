@@ -46,4 +46,23 @@ rw,async,insecure,no_subtree_check,all_squash,anonuid=0,anongid=0
 
 15. At this point you should be able to log into your NAS through the `Network` option on Windows.
 
-16. You can refer back to the [readme](../README.md) for additional setup.
+### Map the Network Drive on Windows
+16. Open up `File Explorer` and Navigate to `This PC`.
+
+17. Click on the epsilon icon next to `View` and click on `Map network drive`.
+
+<img src="../images/map-drive2.png" alt="Map Drive 2 Windows" height="500">
+
+18. For the `Folder` field, fill in:
+
+```
+\\OPENMEDIAVAULT\<name of Shared Folder>
+```
+
+<img src="../images/map-drive.png" alt="Map Drive Windows" height="500">
+
+19. Now it should show up within `Network locations`.
+
+### You're Done!
+
+20. You can refer back to the [readme](../README.md) for additional setup.
